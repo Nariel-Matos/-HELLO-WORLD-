@@ -1,1 +1,1 @@
-const one = window.alert('hello wordl !')
+const one = window.alert('hello world !')
