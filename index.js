@@ -1,0 +1,1 @@
+const one = window.alert('hello wordl !')
